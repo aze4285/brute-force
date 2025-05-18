@@ -9,7 +9,6 @@
 - Interface graphique intuitive
 - Attaques de force brute personnalisables
 - Léger et autonome (aucune installation ni configuration requise)
-- Icône personnalisée
 
 ---
 
@@ -26,11 +25,18 @@ Téléchargez simplement le fichier `Brute force.exe`, puis double-cliquez pour 
 2. Configurez les paramètres de l’attaque selon vos besoins dans l’interface.
 3. Lancez l’attaque en cliquant sur le bouton approprié.
 
+
+
+![bf](https://github.com/user-attachments/assets/a2e0109b-7fdb-47e4-84ca-40820bf4430a)
+
+
+
+
 ---
 
 ## Personnalisation
 
-Pour obtenir une version adaptée à vos besoins, contactez l’auteur ou demandez les sources Python.
+Pour obtenir une version adaptée à vos besoins, contactez l’auteur ou demandez les sources.
 
 ---
 
@@ -45,6 +51,7 @@ Pour obtenir une version adaptée à vos besoins, contactez l’auteur ou demand
 
 ## Auteur
 
-- **aze4285**
-
+- **PandiaSoft**
+-**Discord**
+  https://discord.gg/DfKVu3mQFS
 ---
